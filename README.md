@@ -69,8 +69,7 @@ https://youtu.be/rqj7ixQ1AYI?si=0ECi8-e3Ta3P_VaZ
 
 📝 Makale Linki
 
-
-
+https://github.com/hilal-kaya/Real-Time-Grammar-Based-Syntax-Highlighter-using-Python-and-Qt/blob/main/ProjeDokumantasyonu.md
 
 ▶️ Çalıştırma Talimatı
 
